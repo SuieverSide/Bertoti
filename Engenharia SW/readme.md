@@ -6,9 +6,51 @@
 
 //Engenharia de software é a programação aplicada em um tempo e um ambiente, a engenhaeria de software aborda todos os aspectos da implementação e manutenção de um projeto//
 
-1. Implementação de um linguagem de programação de alto nível onde se perde performance em troco de tempo e conforto.
-2. Utlização de raid 0 onde se ganha performance em perda da segurança de dados.
-3. Utilização NoSQL em vez de banco de dados relacionais onde se ganha performance na task mas perde em flexibilidade.
+a. Implementação de um linguagem de programação de alto nível onde se perde performance em troco de tempo e conforto.
+b. Utlização de raid 0 onde se ganha performance em perda da segurança de dados.
+c. Utilização NoSQL em vez de banco de dados relacionais onde se ganha performance na task mas perde em flexibilidade.
 
 3.Youtube e Vimeo, ambos hosteiam vídeos em alto qualidade porém o Youtube mantém uma usabilidade maior e mantem o usuários mais tempo com recomendações mais relevantes.
+
+4.
+Visibility of system status.
+Erro: Sistema de carregamento de páginas do teams que não demonstra o progresso.
+Acerto: Progresso de download de arquivo no windows
+
+Match between system and the real world.
+Erro: Exibição de códigos erros referenciando portas de rede.
+Acerto: Utilizar sistema de arquivos imitando um arquivo físico no windows
+
+User control and freedom.
+Erro: Páginas web de cadastros que ao realizar um erro ao retornar a página anterior o progresso é perdido.
+Acerto: Atalhos para retornar a um estado anterior do arquivo no word.
+
+Consistency and standards.
+Erro: Utilização de caminhos confusos para alterações de configurações em aplicativos da meta.
+Acerto: Utilização de cores para online, ocupado e ausente no discord.
+
+Error prevention.
+Erro: Inversão de cores no siga.
+Acerto: Confirmação que vai sobreescrever um arquivo no windowns.
+
+Recognition rather than recall.
+Erro: 
+Acerto: Usar um calendário para selecionar um dia.
+
+Recognition rather than recall.
+Erro: 
+Acerto:
+
+Aesthetic and minimalist design.
+Erro: 
+Acerto:
+
+Help users recognize, diagnose, and recover from errors.
+Erro: 
+Acerto:
+
+Help and documentation.
+Erro: 
+Acerto:
+
 
