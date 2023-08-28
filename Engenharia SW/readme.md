@@ -60,6 +60,10 @@ Diagramas
 
 Diagrama de caso de uso:
 
+
+
+
+
 ![DiagramaUso](https://github.com/SuieverSide/bertoti/assets/31674205/22d905c4-d00b-4197-be47-efaf47c11032)
 
 
