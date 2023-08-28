@@ -16,8 +16,8 @@ c. Utilização NoSQL em vez de banco de dados relacionais onde se ganha perform
 Visibility of system status.
 Erro: Sistema de carregamento de páginas do teams que não demonstra o progresso.
 Acerto: Progresso de download de arquivo no windows
-
-## A 10 Usability Heuristics for User Interface Design
+_______________________________________________________________________________________________________________________________________________
+## 10 Usability Heuristics for User Interface Design
 
 Match between system and the real world.
 Erro: Exibição de códigos erros referenciando portas de rede.
@@ -57,7 +57,7 @@ Acerto:
 
 ________________________________________________________________________________________________________________________________________
 
-## A Diagramas
+## Diagramas
 
 
 Diagrama de caso de uso:
