@@ -17,7 +17,7 @@ Visibility of system status.
 Erro: Sistema de carregamento de páginas do teams que não demonstra o progresso.
 Acerto: Progresso de download de arquivo no windows
 _______________________________________________________________________________________________________________________________________________
-##A10 Usability Heuristics for User Interface Design
+## 10 Usability Heuristics for User Interface Design
 
 Match between system and the real world.
 Erro: Exibição de códigos erros referenciando portas de rede.
@@ -57,7 +57,7 @@ Acerto:
 
 ________________________________________________________________________________________________________________________________________
 
-##ADiagramas
+## Diagramas
 
 
 Diagrama de caso de uso:
