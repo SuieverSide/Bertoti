@@ -37,24 +37,24 @@ Erro: Inversão de cores no siga.
 Acerto: Confirmação que vai sobreescrever um arquivo no windowns.
 
 ### Recognition rather than recall.
-Erro: 
+Erro: Uma tela de confirmação que não mostra qual opção selecionou.
 Acerto: Usar um calendário para selecionar um dia.
 
-### Recognition rather than recall.
-Erro: 
-Acerto:
+### Flexibility and efficiency of use.
+Erro: Office 365 onde foi retirado diversas funcionalidades e atalhos.
+Acerto: Intellij com diversos atalhos para maxizar eficiência.
 
 ### Aesthetic and minimalist design.
-Erro: 
-Acerto:
+Erro: Telegram com design com muitas opções de uma vez só.
+Acerto: Whatsapp com icones simples e legíveis.
 
 ### Help users recognize, diagnose, and recover from errors.
-Erro: 
-Acerto:
+Erro: Erros de compilar Java, erros 
+Acerto: Login que apresenta se o erro foi no nome do usúario ou na senha.
 
 ### Help and documentation.
-Erro: 
-Acerto:
+Erro: Documentação do Geoserver.
+Acerto: Documentação do Java.
 
 ________________________________________________________________________________________________________________________________________
 
