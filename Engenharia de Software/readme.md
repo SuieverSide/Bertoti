@@ -125,7 +125,7 @@ public class Produto {
 
 <details>
 
-<summary>Classe Sistema</summary>
+<summary>Classe User</summary>
 
 ```
 package org.example;
