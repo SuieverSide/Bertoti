@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
 
-public class ConsultorioMedico {
+public class Produto {
     private List<Consulta> consultas = new LinkedList<Consulta>();
 
     public void agendarConsulta(Consulta consulta) {
