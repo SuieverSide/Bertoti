@@ -71,11 +71,9 @@ Diagrama de classe:
 
 ## Códigos Java
 
-
-
 <details>
 
-<summary>Classe Produto</summary>
+
     
 ```
 package org.example;
@@ -119,7 +117,8 @@ public class Produto {
 
 
 ```
-     
+<summary>Classe Produto</summary>
+
 </details>
 
 
