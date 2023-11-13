@@ -31,7 +31,7 @@ public class Produto {
         this.preco = preco;
     }
 
-    public Integer getPreco() {
-        return Preco;
+    public Double getPreco() {
+        return preco;
     }
 }
