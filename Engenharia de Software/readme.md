@@ -72,7 +72,8 @@ Diagrama de classe:
 
 ## Códigos Java
 
-Classe Produto
+<summary>Classe Produto</summary>
+
 <details>
     
 ```
@@ -120,7 +121,7 @@ public class Produto {
      
 </details>
 
-Classe User
+<summary>Classe Sistema</summary>
 
 <details>
 
@@ -167,7 +168,7 @@ public class User {
     
 </details>
 
-Classe Sistema
+<summary>Classe Sistema</summary>
 
 <details>
 
@@ -247,7 +248,7 @@ public class Sistema {
     
 </details>
 
-Teste Junit
+<summary>Teste Junit</summary>
 
 <details>
 
