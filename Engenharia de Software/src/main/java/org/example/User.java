@@ -2,10 +2,10 @@ package org.example;
 
 public class User {
     private String nome;
-    private Integer cpf;
+    private Double cpf;
     private String cargo;
 
-    public User(String nome, Integer cpf, String cargo) {
+    public User(String nome, Double cpf, String cargo) {
         this.nome = nome;
         this.cpf = cpf;
         this.cargo = cargo;
@@ -19,11 +19,11 @@ public class User {
         return nome;
     }
 
-    public void setCpf(Integer cpf) {
+    public void setCpf(Double cpf) {
         this.cpf = cpf;
     }
 
-    public Integer getCpf() {
+    public Double getCpf() {
         return cpf;
     }
 
