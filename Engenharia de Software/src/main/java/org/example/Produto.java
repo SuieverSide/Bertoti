@@ -1,9 +1,11 @@
+package org.example;
+
 public class Produto {
     private String nome;
     private Integer quantidade;
     private Double preco;
 
-    public Medico(String nome, Integer quantidade, Double preco) {
+    public Produto(String nome, Integer quantidade, Double preco) {
         this.nome = nome;
         this.quantidade = quantidade;
         this.preco = preco;
@@ -21,7 +23,7 @@ public class Produto {
         this.quantidade = quantidade;
     }
 
-    public String getQuantidade() {
+    public Integer getQuantidade() {
         return quantidade;
     }
 
