@@ -76,7 +76,6 @@ Classe Produto
 <details>
 ```
 package org.example;
-
 public class Produto {
     private String nome;
     private Integer quantidade;
