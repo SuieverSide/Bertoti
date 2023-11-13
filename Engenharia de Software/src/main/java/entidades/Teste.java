@@ -1,4 +1,4 @@
-package org.example;
+package entidades;
 
 import org.junit.jupiter.api.Test;
 

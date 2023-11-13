@@ -1,4 +1,4 @@
-package org.example;
+package entidades;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -41,7 +41,7 @@ public class Sistema {
         this.users = users;
     }
 
-    public List<Produto> buscarProdutos(String nomeDoProduto) {
+    public List<Produto> searchProduto(String nomeDoProduto) {
         List<Produto> produtosEncontrados = new LinkedList<Produto>();
 
         for (Produto produto : produtos) {

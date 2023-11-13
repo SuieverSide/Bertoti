@@ -1,4 +1,4 @@
-package org.example;
+package entidades;
 
 public class User {
     private String nome;
