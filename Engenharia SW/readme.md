@@ -63,12 +63,6 @@ ________________________________________________________________________________
 
 Diagrama de caso de uso:
 
-
-
-
-
-![DiagramaUso](https://github.com/SuieverSide/bertoti/assets/31674205/22d905c4-d00b-4197-be47-efaf47c11032)
-
 ![DiagramaUso2](https://github.com/SuieverSide/bertoti/assets/31674205/dd92b5de-266a-4b70-aa0e-e2bbd6ec0c78)
 
 
