@@ -31,7 +31,7 @@ public class User {
         this.cargo = cargo;
     }
 
-    public Integer getCargo() {
-        return cargp;
+    public String getCargo() {
+        return cargo;
     }
 }
