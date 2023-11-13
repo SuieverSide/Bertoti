@@ -67,14 +67,15 @@ Diagrama de caso de uso:
 
 
 
-
 Diagrama de classe:
 
 ## Códigos Java
 
-<summary>Classe Produto</summary>
+
 
 <details>
+
+<summary>Classe Produto</summary>
     
 ```
 package org.example;
@@ -121,9 +122,11 @@ public class Produto {
      
 </details>
 
-<summary>Classe Sistema</summary>
+
 
 <details>
+
+<summary>Classe Sistema</summary>
 
 ```
 package org.example;
@@ -168,9 +171,11 @@ public class User {
     
 </details>
 
-<summary>Classe Sistema</summary>
+
 
 <details>
+
+<summary>Classe Sistema</summary>
 
 ```
 
@@ -248,9 +253,11 @@ public class Sistema {
     
 </details>
 
-<summary>Teste Junit</summary>
+
 
 <details>
+
+<summary>Teste Junit</summary>
 
 ```
 
