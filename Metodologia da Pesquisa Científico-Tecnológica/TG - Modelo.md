@@ -1,23 +1,23 @@
-# Coloque seu nome aqui
+# Lucas Lima Martins Pereira 
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Estudante de banco de dados na FATEC São José dos Campos, formado em informática pela Etec Zona Leste. Entusiasta de tecnoligia e dados.
 
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* [GIT](https://github.com/SuieverSide)
+* [LinkedIn](https://www.linkedin.com/in/lucas-lima-a20055144/)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+PostGresSQL, Postgis, Python, Java, MySQL.
 
 
 ## Meus Projetos
 
-### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+### Em 2024-1
+Desevolvido um projeto de API para a empresa Domrock, para solução para administradar e classificar arquivos e metadados enviados por clientes para alimentar um banco de dados.
 
-[GIT](https://www.git.com)
+[GIT]()
 
 #### Tecnologias Utilizadas
 Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
